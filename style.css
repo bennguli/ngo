@@ -1,0 +1,27 @@
+html {
+    background-color: red;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
+body {
+    margin: auto;
+    padding: 2em 2em 4em;
+    max-width: 850px;
+    font-size: 19px;
+    background-color: #B0171F;
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
+h1,
+h2 {
+    color: #00bff;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+h2 {
+    margin-top: 1.3em;
+}
+b,
+strong {
+    font-weight: 600;
+}
